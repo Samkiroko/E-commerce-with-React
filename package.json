@@ -1,5 +1,6 @@
 {
   "name": "react_ecommerce",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/Samkiroko/E-commerce-with-React#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "devDependencies": {}
 }
