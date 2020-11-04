@@ -1,29 +1,28 @@
 {
-  "name": "react_ecommerce",
+  "name": "amazona",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ecommerce website like amazon",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samkiroko/E-commerce-with-React.git"
+    "url": "git+https://github.com/basir/amazona.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Samkiroko/E-commerce-with-React/issues"
+    "url": "https://github.com/basir/amazona/issues"
   },
-  "homepage": "https://github.com/Samkiroko/E-commerce-with-React#readme",
+  "homepage": "https://github.com/basir/amazona#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "react-router-dom": "^5.2.0"
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "eslint": "^7.12.1",
-    "eslint-plugin-react": "^7.21.5",
-    "nodemon": "^2.0.6"
+    "eslint": "^7.9.0",
+    "eslint-plugin-react": "^7.21.2",
+    "nodemon": "^2.0.4"
   }
 }
